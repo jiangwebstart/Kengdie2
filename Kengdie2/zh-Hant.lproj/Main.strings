@@ -1,0 +1,30 @@
+
+/* Class = "IBUINavigationItem"; title = "坑爹游戏2攻略"; ObjectID = "8Zj-Rp-gxg"; */
+"8Zj-Rp-gxg.title" = "坑爹游戏2攻略";
+
+/* Class = "IBUILabel"; text = "评分"; ObjectID = "LIj-3G-KPD"; */
+"LIj-3G-KPD.text" = "评分";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "O5b-Fq-iAF"; */
+"O5b-Fq-iAF.text" = "Title";
+
+/* Class = "IBUILabel"; text = "意见反馈"; ObjectID = "TIl-KL-SdS"; */
+"TIl-KL-SdS.text" = "意见反馈";
+
+/* Class = "IBUILabel"; text = "第关"; ObjectID = "btd-11-dIw"; */
+"btd-11-dIw.text" = "第关";
+
+/* Class = "IBUILabel"; text = "1.0"; ObjectID = "crU-cc-oX5"; */
+"crU-cc-oX5.text" = "1.0";
+
+/* Class = "IBUIBarButtonItem"; title = "返回"; ObjectID = "gOR-rp-elZ"; */
+"gOR-rp-elZ.title" = "返回";
+
+/* Class = "IBUILabel"; text = "版本"; ObjectID = "kBz-Gd-2mW"; */
+"kBz-Gd-2mW.text" = "版本";
+
+/* Class = "IBUINavigationItem"; title = "详情"; ObjectID = "mfL-81-MSE"; */
+"mfL-81-MSE.title" = "详情";
+
+/* Class = "IBUINavigationItem"; title = "设置"; ObjectID = "uZZ-zy-hAc"; */
+"uZZ-zy-hAc.title" = "设置";

@@ -7,12 +7,27 @@
 //
 
 #import "AppDelegate.h"
+#import "ArticleManager.h"
+#import "MobClick.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+//    Class cls = NSClassFromString(@"UMANUtil");
+//    SEL deviceIDSelector = @selector(openUDIDString);
+//    NSString *deviceID = nil;
+//    if(cls && [cls respondsToSelector:deviceIDSelector]){
+//        deviceID = [cls performSelector:deviceIDSelector];
+//    }
+//    NSLog(@"{\"oid\": \"%@\"}", deviceID);
+    
+    
+    [MobClick startWithAppkey:@"52ee2ed856240ba072293666"];
+    [MobClick setLogEnabled:YES];
+
     return YES;
 }
 							
