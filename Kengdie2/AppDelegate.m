@@ -24,9 +24,8 @@
 //    }
 //    NSLog(@"{\"oid\": \"%@\"}", deviceID);
     
-    
     [MobClick startWithAppkey:@"52ee2ed856240ba072293666"];
-    [MobClick setLogEnabled:YES];
+//    [MobClick setLogEnabled:YES];
 
     return YES;
 }
